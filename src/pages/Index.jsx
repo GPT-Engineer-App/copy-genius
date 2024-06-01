@@ -39,6 +39,13 @@ const Index = () => {
               </Heading>
               <Text textAlign="center">Our email copies are designed to engage and convert your audience.</Text>
             </VStack>
+            <VStack spacing={4} align="center">
+              <FaPhone size="3em" />
+              <Heading as="h3" size="md">
+                Sales Pages Copywriting
+              </Heading>
+              <Text textAlign="center">We craft persuasive sales pages that drive conversions and boost sales.</Text>
+            </VStack>
           </HStack>
         </Box>
 
